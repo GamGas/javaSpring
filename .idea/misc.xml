@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/amimals/pom.xml" />
         <option value="$PROJECT_DIR$/animals/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernateLearn/pom.xml" />
       </list>
     </option>
   </component>
