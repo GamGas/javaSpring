@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hibernateLearn" />
         <module name="animals" />
+        <module name="amimals" />
       </profile>
     </annotationProcessing>
   </component>
