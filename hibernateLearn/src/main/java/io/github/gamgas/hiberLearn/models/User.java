@@ -1,4 +1,4 @@
-package models;
+package io.github.gamgas.hiberLearn.models;
 
 import jakarta.persistence.*;
 

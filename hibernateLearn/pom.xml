@@ -8,10 +8,6 @@
     <artifactId>hibernateLearn</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <properties>
-        <maven.compiler.source>18</maven.compiler.source>
-        <maven.compiler.target>18</maven.compiler.target>
-    </properties>
 
     <dependencies>
         <dependency>
@@ -28,5 +24,9 @@
 
 
     </dependencies>
+    <properties>
+        <maven.compiler.source>18</maven.compiler.source>
+        <maven.compiler.target>18</maven.compiler.target>
+    </properties>
 
 </project>
